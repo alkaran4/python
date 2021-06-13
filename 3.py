@@ -9,4 +9,3 @@ elif percent <= 4 and percent != 0:
     print(f'{percent} {declination[2]}')
 else:
     print(f'{percent} {declination[3]}')
-    
